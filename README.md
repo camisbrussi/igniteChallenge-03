@@ -6,7 +6,7 @@
 
 ## Descrição do desafio
 
-
+Nesse desafio, você deverá criar um hook para gerenciar um carrinho de compras.
 
 ##  Tecnologias
 - React
